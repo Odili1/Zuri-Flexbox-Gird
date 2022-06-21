@@ -84,3 +84,17 @@ button:hover{
     border: 1px solid white;
     background-color: transparent;
 }
+
+.button{
+    margin-left: 30px;
+    background-color: rgb(2, 58, 58);
+}
+
+.button a{
+    text-decoration: none;
+    color: white;
+}
+
+.button:hover a:hover{
+    color:  rgb(2, 58, 58);
+}
